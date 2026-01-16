@@ -1,7 +1,31 @@
 body {
+    font-family: "Open Sans";
     background-color: #F5F4F0;
+    padding: 88px 80px 137px;
 }
 
-#historia {
+img {
     border-radius: 28px;
+    width: 100%;
+
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+h4 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 16px;
 }
